@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Ram</first_name>
+	<last_name>Wagh</last_name>
+	<phone_number>123</phone_number>
+	<notes>TodoList</notes>
+</contact>
+<contact>
+	<first_name>Rahul</first_name>
+	<last_name>Patil</last_name>
+	<phone_number>456</phone_number>
+	<notes>School friend</notes>
+</contact>
+<contact>
+	<first_name>Nikhil</first_name>
+	<last_name>Panchal</last_name>
+	<phone_number>789</phone_number>
+	<notes>Society</notes>
+</contact>
+<contact>
+	<first_name>Rahul</first_name>
+	<last_name>Vinayak</last_name>
+	<phone_number>4454115</phone_number>
+	<notes>helloworld</notes>
+</contact>
+</contacts>
